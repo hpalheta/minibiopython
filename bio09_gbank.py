@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 '''
   
     Programa  : bio09_gbank.py
@@ -12,7 +12,7 @@
 #importando Seq
 from Bio import SeqIO
 
-#variavel gbkparse
+#variavel gbkparse.
 genbak_parse = SeqIO.parse("NC_009926.gbk", "genbank")
 
 for seq_record in  genbak_parse:

@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 '''
   Comentário  de bloco 
 
@@ -12,7 +12,7 @@
 
 '''
 
-# este é o mentario de linha
+# este é o mentario de linha.
 
 #função print
 print("Meu primeiro programa Python!")
